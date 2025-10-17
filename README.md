@@ -1,4 +1,4 @@
-🩺✨ HoloAid — AI-Powered Vision Assistant
+**🩺✨ HoloAid — AI-Powered Vision Assistant**
 
 “Turning your camera into a voice that sees.”
 
