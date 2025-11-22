@@ -1,4 +1,4 @@
-# Hhackathon App Monorepo
+# Hackathon App Monorepo
 
 A full-stack workspace for the Vision Navigation companion consisting of:
 
