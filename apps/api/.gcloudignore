@@ -1,0 +1,7 @@
+# Keep Cloud Build context minimal
+**
+!.gcloudignore
+!Dockerfile
+!pyproject.toml
+!api/**
+!yolov8n-seg.pt

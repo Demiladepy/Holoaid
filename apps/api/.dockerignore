@@ -1,0 +1,6 @@
+**
+!.dockerignore
+!Dockerfile
+!pyproject.toml
+!api/**
+!yolov8n-seg.pt
