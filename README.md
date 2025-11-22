@@ -1,5 +1,7 @@
 # Hackathon App Monorepo
 
+DOWNLOAD THE APK AT https://expo.dev/artifacts/eas/sT9tuQXFE32wF4P9s74nAA.apk
+
 A full-stack workspace for the Vision Navigation companion consisting of:
 
 - **apps/mobile** – Expo (React Native) client with Google Maps, LiveKit streaming, and assistive controls.
@@ -103,7 +105,4 @@ packages/      # shared libraries (placeholder)
 ```
 
 ## Next steps
-- Implement authenticated endpoints for destination intents and navigation decisions.
-- Wire the vision service to LiveKit’s subscriber SDK instead of local camera when available.
-- Move shared DTOs into `packages/contracts` and generate both TS + Pydantic models automatically.
-- Add CI to build/test both the Expo and FastAPI projects.
+- DOWNLOAD THE APK AT https://expo.dev/artifacts/eas/sT9tuQXFE32wF4P9s74nAA.apk
